@@ -1,0 +1,59 @@
+{'Mineral_water': 0, 矿泉水
+ 'aomiaochufang': 1, ** 奥妙厨房重油污净   ？？
+ 'aomiaoguoshuye': 2, ** 奥妙果蔬餐具净
+ 'aomiaoxijiejing': 3, ** 奥妙高效洗洁精
+ 'aomiaoxijiejing_other': 4,  奥妙洗洁精其他
+ 'aomiaoxiyiye': 5, ** 奥妙洗衣液
+ 'aomiaoxiyiye_other': 6,  奥妙洗衣液其他
+ 'bags': 7,  书包
+ 'blueair_other': 8, 布鲁雅尔其他 
+ 'bonsai': 9,  绿植
+ 'books': 10,  书本
+ 'booth': 11,  展台
+ 'chair': 12,  椅子
+ 'computer': 13,  电脑
+ 'counter': 14,  计数器
+ 'cup': 15,  杯子
+ 'desk': 16,  桌子
+ 'duofen_other': 17,  多芬其他
+ 'duofenjiemianpaopao': 18, ** 多芬洁面泡泡
+ 'duofenmuyuru': 19, ** 多芬沐浴乳
+ 'duofenxifaru': 20, ** 多芬洗发乳
+ 'fanshilin_3': 21, ** 凡士林3
+ 'fanshilin_4': 22, ** 凡士林4
+ 'fanshilin_5': 23, ** 凡士林5
+ 'fanshilin_6': 24, ** 凡士林6
+ 'fanshilin_other': 25,  凡士林其他
+ 'floor': 26,  地板
+ 'flower': 27,  花
+ 'huamuxingqiu': 28, ** 花木星球  ？？
+ 'huamuxingqiu_other': 29,  花木星球其他
+ 'huayangxingqiu': 30, ** 花漾星球  ？？
+ 'huayangxingqiu_other': 31,  花漾星球其他
+ 'jinfang_other': 32,  金纺其他
+ 'jinfangxiyiye': 33, ** 金纺洗衣液  ？？
+ 'jinfangxiyiye_new': 34, ** 金纺洗衣液新  ？？
+ 'keyboard': 35,  键盘
+ 'landuoba': 36, ** 蓝多霸
+ 'lishimuyulu_other': 37,  力士沐浴露其他
+ 'lishimuyuru': 38, ** 力士沐浴乳
+ 'lishixifalu_other': 39,  力士洗发露其他
+ 'lishixifaru': 40, ** 力士洗发露
+ 'pangshi_other': 41,  旁氏其他
+ 'pangshijiemianpaopao_hong': 42, ** 旁氏洁面泡泡红色
+ 'pangshijiemianpaopao_huang': 43, ** 旁氏洁面泡泡黄色
+ 'pangshijiemianru_fen': 44, ** 旁氏洁面乳粉色
+ 'pangshijiemianru_hei': 45, ** 旁氏洁面乳黑色
+ 'pangshijiemianru_huang': 46, ** 旁氏洁面乳黄色
+ 'people': 47,  人
+ 'qingyang_other': 48, 清扬其他 
+ 'qingyangmuyulu': 49, ** 清扬沐浴露
+ 'qingyangxifalu': 50, ** 清扬洗发露
+ 'shoes': 51,  鞋子
+ 'shunai': 52, ** 舒耐
+ 'tile': 53, 地板
+ 'trousers': 54,  裤子
+ 'truliva_other': 55,  净水器其他
+ 'zhichexiaoduye': 56, ** 植澈消毒液
+ 'zhonghuayagao_other': 57 中华牙膏其他
+ }
